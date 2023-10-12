@@ -31,8 +31,6 @@ LOGINS_CREDENTIAL = {
 	"x_fire2":"alepale",
 }
 
-#import customtkinter as t
-#offL = t.CTk()
  
 LOG_INS = [66640966275310,
 238300918622439,
@@ -51,4 +49,4 @@ LOG_INS = [66640966275310,
 136411542242152,
 273184161046606]
 
-OFFLINE = False
+OFFLINE = True
