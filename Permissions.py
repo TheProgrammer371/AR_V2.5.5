@@ -14,6 +14,7 @@ LOGINS = {
 	"Marko":136411542242152,
 	"x_fire2":273184161046606,
 	"saiyanevolution":17613682292892,
+	"Tony":123719803956179,
 }
 LOGINS_CREDENTIAL = {
     "AppleSW": "Notem1537",
@@ -31,6 +32,7 @@ LOGINS_CREDENTIAL = {
 	"Marko":"321Legende",
 	"x_fire2":"alepale",
 	"saiyanevolution":"Filthymonkman123",
+	"Tony":"steak44",
 }
 
  
@@ -50,6 +52,7 @@ LOG_INS = [66640966275310,
 171983375863228,
 136411542242152,
 273184161046606,
-17613682292892]
+17613682292892,
+123719803956179]
 
 OFFLINE = False
