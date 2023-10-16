@@ -56,6 +56,6 @@ LOG_INS = [66640966275310,
 123719803956179]
 
 OFFLINE = False
-WhatTheFlip = True
-TheFlipWhat = True
-ONEMODET = True
+WhatTheFlip = False
+TheFlipWhat = False
+ONEMODET = False
